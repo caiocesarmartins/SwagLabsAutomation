@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caio.SwagLabsAutomation.Specflow", "Caio.SwagLabsAutomation.Specflow\Caio.SwagLabsAutomation.Specflow.csproj", "{005144FF-C5CC-49E4-BFF7-9CDD2A3A9D9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caio.SwagLabsAutomation.PageObjects", "Caio.SwagLabsAutomation.PageObjects\Caio.SwagLabsAutomation.PageObjects.csproj", "{728D5FF7-E998-4AA8-8326-80BECF29E6CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caio.SwagLabsAutomation.Shared", "Caio.SwagLabsAutomation.Shared\Caio.SwagLabsAutomation.Shared.csproj", "{9B072AD2-5B06-4825-ACF0-87938A4F5175}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{005144FF-C5CC-49E4-BFF7-9CDD2A3A9D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{005144FF-C5CC-49E4-BFF7-9CDD2A3A9D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{005144FF-C5CC-49E4-BFF7-9CDD2A3A9D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{005144FF-C5CC-49E4-BFF7-9CDD2A3A9D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{728D5FF7-E998-4AA8-8326-80BECF29E6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728D5FF7-E998-4AA8-8326-80BECF29E6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728D5FF7-E998-4AA8-8326-80BECF29E6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728D5FF7-E998-4AA8-8326-80BECF29E6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B072AD2-5B06-4825-ACF0-87938A4F5175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B072AD2-5B06-4825-ACF0-87938A4F5175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B072AD2-5B06-4825-ACF0-87938A4F5175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B072AD2-5B06-4825-ACF0-87938A4F5175}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {225F0559-13A6-44A1-A0B0-01401D26A01C}
+	EndGlobalSection
+EndGlobal
